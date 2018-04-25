@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuantityPiker</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="price">Price</string>
+</resources>
